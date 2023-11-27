@@ -3,6 +3,11 @@ body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
+h1,
+h2 {
+  color: #f70776;
+}
+
 .container {
   max-width: 600px;
   margin: 0 auto;
@@ -34,11 +39,13 @@ h2 {
 
 .date {
   opacity: 0.7;
+  color: #680747;
 }
 
 .time {
   font-size: 48px;
   font-weight: bold;
+  color: #141010;
 }
 
 .time small {
@@ -51,6 +58,7 @@ select {
   width: 100%;
   padding: 10px;
   border-radius: 5px;
+  color: #c3195d;
 }
 
 h1 {
